@@ -1,4 +1,4 @@
-# rose.ai
+# rose.ai !NOT A FINISHED PROJECT!
 PDF, Code and Data for: Mühlematter, M. (Forthcoming) **rose.ai - Vc, nlp, something something** *Masterthesis.*
 ## Abstract 
 
