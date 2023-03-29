@@ -1,8 +1,9 @@
-# rose.ai !NOT A FINISHED PROJECT!
-PDF, Code and Data for: Mühlematter, M. (Forthcoming) **rose.ai** Master's Thesis, University of St.Gallen
+# Education.ai !ONGOING PROJECT!
+PDF, Code and Data for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes** (Master's Thesis), University of St.Gallen
 ## Abstract 
 
-Insert Abstract once finished
+-> Insert Abstract once finished
+[![Open Full PDF]()](https://)
 
 ## About (Needs Update)
 
@@ -12,9 +13,9 @@ This online repository contains the code needed to reconstruct the tables and fi
 
 Notebooks are shown in GitHub but you can explore and open in Google Colab to replicate and utilize in own research projects. 
 
-## License & Reuse (Unchanged from Example)
+## License & Reuse 
 
-This code is availible with a _Attribution-NonCommercial_ (CC BY-NC) license. You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the research paper. 
+You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the research paper. 
  
 
 ## Citation 
@@ -23,10 +24,10 @@ This code is availible with a _Attribution-NonCommercial_ (CC BY-NC) license. Yo
 ```
 @thesis{Muehlematter2023,
   author = {Muehlematter, Mario},
-  title = {rose.ai: },
-  shorttitle = {rose.ai}
+  title = {Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes},
+  shorttitle = {Education.ai}
   year = {2023},
   institution = {University St. Gallen},
-  type = {master's},
+  type = {mMster's Thesis},
 }
 ```
