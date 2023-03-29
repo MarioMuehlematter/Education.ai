@@ -7,12 +7,14 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 
 Full Paper:
 
-[![Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://) ![Full PDF](https://)
+[![Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://) ![Open Full PDF](https://)
 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
 
 - *Notebook: Pre-Processing* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)
+- *Notebook: Processing* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1tQ-BEf_F8UYM09fmmrj-mlkrCvQRXrYr?usp=sharing)
+- *Notebook: Analysis + Plots* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1HecFqHDNrYQGSjJsEGwmfH1iG1UbyZxJ?usp=sharing)
 
 Notebooks are shown in GitHub but you can explore and open in Google Colab to replicate and utilize in own research projects. 
 
