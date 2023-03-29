@@ -12,7 +12,7 @@ Full Paper:
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
 
-- *Notebook: Pre-Processing* [![Open In Colab](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)
+- *Notebook: Pre-Processing* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)
 
 Notebooks are shown in GitHub but you can explore and open in Google Colab to replicate and utilize in own research projects. 
 
