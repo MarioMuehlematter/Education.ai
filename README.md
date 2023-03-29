@@ -5,8 +5,9 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 ## Abstract 
 -> Insert Abstract once finished
 
-Full Paper: /n
-[![Open Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://)  *Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes*
+Full Paper:
+
+[![Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://) [![Full PDF](https://)
 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
