@@ -5,12 +5,13 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 ## Abstract 
 -> Insert Abstract once finished
 
-- [![Open Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://) *Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes*
+Full Paper:
+[![Open Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://)  *Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes*
 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
 
-- **Notebook A**. Text Classification with a Bag-of-Words Representation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_JsC9opZjrI4p-V_5ojWO_6JAYEt2xcs?usp=sharing)
+- *Notebook 1. Data Wrangling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_JsC9opZjrI4p-V_5ojWO_6JAYEt2xcs?usp=sharing)
 
 Notebooks are shown in GitHub but you can explore and open in Google Colab to replicate and utilize in own research projects. 
 
