@@ -5,7 +5,7 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 ## Abstract 
 -> Insert Abstract once finished
 
-- **Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes** [![Open Full PDF](https://commons.wikimedia.org/wiki/File:PDF_file_icon.svg#/media/File:PDF_file_icon.svg)](https://)
+- **Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes** [![Open Full PDF](https://upload.wikimedia.org/wikipedia/commons/6/6c/PDF_icon.svg)](https://)
 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
