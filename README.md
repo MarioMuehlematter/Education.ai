@@ -1,5 +1,7 @@
 # Education.ai 
-!ONGOING PROJECT!
+
+
+
 Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis of the EdTech Sector Regarding the Relationship between “Hot Topics” and Business Outcomes** (Master's Thesis), University of St.Gallen
 
 ## Abstract 
@@ -11,21 +13,23 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
 
-*Notebook: Pre-Processing* 
+*Notebook Pre-Processing:* 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)
-*Notebook: Processing* 
+
+*Notebook Processing:* 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQ-BEf_F8UYM09fmmrj-mlkrCvQRXrYr?usp=sharing)
-*Notebook: Analysis + Plots* 
+
+*Notebook Analysis + Plots:* 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HecFqHDNrYQGSjJsEGwmfH1iG1UbyZxJ?usp=sharing)
 
-Notebooks are shown in GitHub but you can explore and open in Google Colab to replicate and utilize in own research projects. 
+Notebooks are also saved to GitHub but you can directly open and explore them in Google Colab via the provided links to replicate and utilize in own research projects. 
 
 
 ## License & Reuse 
-You are welcome to use, or reuse the code as you wish. We hope that if you find this work helpful you will cite the research paper. 
+You are welcome to use, or reuse the code as you wish. I hope that if you find this work helpful you will cite the research paper. 
  
 
 ## Citation 
