@@ -101,7 +101,7 @@ author:
   avatar           : "/assets/images/Portrait.jpg"
   bio              : "I did write this Master's Thesis"
   location         : "St.Gallen"
-  #links:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MarioMuehlematter/"
