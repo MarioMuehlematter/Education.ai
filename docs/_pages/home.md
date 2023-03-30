@@ -1,5 +1,5 @@
 ---
 permalink: /
-hidden: false
+hidden: true
 ---
 homepage 
