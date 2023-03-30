@@ -1,6 +1,7 @@
 ---
 permalink: /research/
-last_modified_at: 2022-05-27T11:59:26-04:00
+title: Reseaerch
+last_modified_at: 2023-03-31 
 ---
 
 ## Abstract 
