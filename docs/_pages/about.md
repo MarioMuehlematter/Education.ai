@@ -15,4 +15,5 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: false
 ---
 
-lorem ipsum 
+I created this website in addition to the classic text format of a Master's thesis to increase transparency and enable other motivated schoolars to profit of my stride into utilizing NLP for management and investment research by saving them time.
+
