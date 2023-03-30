@@ -7,7 +7,7 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 
 Full Paper:
 
-[![Full PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Icon_pdf_file.svg/32px-Icon_pdf_file.svg.png)](https://) ![Open Full PDF](https://)
+[![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://) ![Open Full PDF](https://)
 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
