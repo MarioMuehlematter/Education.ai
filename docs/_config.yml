@@ -7,18 +7,18 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" , "air", "aqua", , "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Education.ai"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "Research Companion Website"
+name                     : &name "Mario Mühlematter" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+url                      : #https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+repository               : 3"mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -71,13 +71,13 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
+#twitter:
   username               : &twitter "mmistakes"
-facebook:
+#facebook:
   username               : &facebook "michaelrose"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+#og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -99,9 +99,9 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
-  links:
+  bio              : "I did write this Master's Thesis"
+  location         : "St.Gallen, Switzerland"
+  #links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
@@ -115,17 +115,16 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
 
-
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    #- label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mmistakes"
-    - label: "Instagram"
+    #- label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
 
