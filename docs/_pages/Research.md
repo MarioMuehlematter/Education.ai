@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: Reseaerch
+title: Research
 last_modified_at: 2023-03-31 
 ---
 
