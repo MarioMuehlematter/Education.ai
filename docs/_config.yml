@@ -88,8 +88,8 @@ analytics:
 author:
   name             : "Mario Mühlematter"
   avatar           : "/assets/images/Portrait.jpg"
-  bio              : "I did write this Master's Thesis"
-  location         : "St.Gallen"
+  bio              : "I am currently writing my Master's Thesis. To better illustrate data handling and analytics I buildt this companion website."
+  location         : "University of St.Gallen"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
