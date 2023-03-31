@@ -6,9 +6,8 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 
 ## Abstract 
 -> Insert Abstract once finished
-| Name        |    Link   |  
-| :---        |    :----:   |   
-| *Full Paper:*       | [![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://)       |
+
+*Full Paper:*       [![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://)      
 
  
 ## Code
@@ -16,9 +15,9 @@ This online repository contains the code needed to reconstruct the tables and fi
 
 | Name        |    Link   |  
 | :---        |    :----:   |     
-| *Notebook Pre-Processing:*      |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)        | 
-| *Notebook Processing:*     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQ-BEf_F8UYM09fmmrj-mlkrCvQRXrYr?usp=sharing)        | 
-| *Notebook Analysis + Plots:*      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HecFqHDNrYQGSjJsEGwmfH1iG1UbyZxJ?usp=sharing)|
+| *Notebook Pre-Processing*      |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_qNrzQ7k5WRbN4WY8rlBUv9lKb18pKw?usp=sharing)        | 
+| *Notebook Processing*     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQ-BEf_F8UYM09fmmrj-mlkrCvQRXrYr?usp=sharing)        | 
+| *Notebook Analysis + Plots*      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HecFqHDNrYQGSjJsEGwmfH1iG1UbyZxJ?usp=sharing)|
 
 Notebooks are also saved to GitHub but you can directly open and explore them in Google Colab via the provided links to replicate and utilize in own research projects. 
 
