@@ -6,6 +6,10 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 
 ## Abstract 
 -> Insert Abstract once finished
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 *Full Paper:*  [![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://)
 ## Code
