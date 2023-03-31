@@ -8,10 +8,10 @@ Companion site for: Mühlematter, M. (Forthcoming) **Education.ai – Analysis o
 -> Insert Abstract once finished
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
+| *Full Paper:*       | [![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://)       |
 | Paragraph   | Text        |
 
-*Full Paper:*  [![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://)
+ 
 ## Code
 This online repository contains the code needed to reconstruct the tables and figures from the paper. The following notebooks contain the code: 
 
