@@ -15,7 +15,7 @@ This online repository contains the code needed to reconstruct the tables and fi
 
 | Name        |    Link   |  
 | :---        |    :----:   |     
-| *Notebook Pre-Processing*      |   [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://)        | 
+| *Notebook Pre-Processing*      |   [![Notebook](https://img.shields.io/badge/-Notebook-orange.svg?logo=Jupyter)](https://)        | 
 | *Notebook Processing*     | [![Notebook](https://img.shields.io/badge/.ipynb-Download%20Full%20PDF-red)](https://)      | 
 | *Notebook Analysis + Plots*      | [![Notebook](https://img.shields.io/badge/.ipynb-Download%20Full%20PDF-red)](https://) |
 
