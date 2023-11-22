@@ -28,7 +28,7 @@ EdTech peer group founded within the same timeframe. This finding partly validat
 the concept of “smart money”, as professional investors do not overinvest based on a
 trend-driven bias.
 
-[![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://github.com/MarioMuehlematter/Education.ai/blob/main/data/MMuehlematter_Masterarbeit%20EdTech_2023-11-15.pdf)      
+[![Full PDF](https://img.shields.io/badge/.pdf-Download%20Full%20PDF-red)](https://github.com/MarioMuehlematter/Education.ai/blob/main/data/MMuehlematter_Masterarbeit%20EdTech_final.pdf)      
 
  
 ## Code
