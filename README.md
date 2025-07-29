@@ -40,7 +40,6 @@ This online repository contains the code needed to reconstruct the tables and fi
 | *Notebook Processing*     | [![Notebook](https://img.shields.io/badge/-Notebook-grey.svg?logo=Jupyter)](https://github.com/MarioMuehlematter/Education.ai/blob/main/notebooks/Education.ai_Processing.ipynb)      | 
 | *Notebook Analysis + Plots*      | [![Notebook](https://img.shields.io/badge/-Notebook-grey.svg?logo=Jupyter)](https://github.com/MarioMuehlematter/Education.ai/blob/main/notebooks/Education.ai_Analysis%2BPlots.ipynb) |
 
-The notebooks are saved to GitHub, so you can directly utilize them by cloning the repo. 
 
 
 ## License & Reuse 
